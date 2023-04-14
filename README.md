@@ -1,1 +1,1 @@
-# r2-lang-design
+# R2 language Design
